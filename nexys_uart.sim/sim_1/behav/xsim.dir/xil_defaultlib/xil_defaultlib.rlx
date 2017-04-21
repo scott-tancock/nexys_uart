@@ -1,0 +1,10 @@
+0.6
+2016.3
+Oct 10 2016
+19:19:53
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav/glbl.v,1476033524,verilog,,,,glbl,,,,,,,,
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.srcs/sim_1/imports/new/test_uart.v,1484322492,verilog,,,,test_uart,,,,,,,,
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.srcs/sources_1/imports/Projects/NexysVideo_A.sv,1489492787,systemVerilog,,,,NexysVideo_A,,,,,,,,
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.srcs/sources_1/imports/Projects/uart.v,1489497279,verilog,,,,uart,,,,,,,,
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.srcs/sources_1/new/hexconverter.v,1488142549,verilog,,,,hexconverter,,,,,,,,
+/media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.srcs/sources_1/new/ram_iface.v,1488154646,verilog,,,,ram_iface,,,,,,,,

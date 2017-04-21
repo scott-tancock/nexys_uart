@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Mar 15 12:37:35 2017
+# Process ID: 12844
+# Current directory: C:/Users/Scott/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.runs/impl_1
+# Command line: vivado.exe -log NexysVideo_A.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source NexysVideo_A.tcl -notrace
+# Log file: C:/Users/Scott/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.runs/impl_1/NexysVideo_A.vdi
+# Journal file: C:/Users/Scott/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source NexysVideo_A.tcl -notrace

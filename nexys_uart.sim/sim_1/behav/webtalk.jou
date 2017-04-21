@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:26 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Mar 14 13:12:53 2017
+# Process ID: 19070
+# Current directory: /media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav
+# Command line: wbtcv -mode batch -source /media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav/xsim.dir/test_uart_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav/webtalk.log
+# Journal file: /media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+source /media/d/Dropbox/Xilinx/Projects/nexys_uart/nexys_uart.sim/sim_1/behav/xsim.dir/test_uart_behav/webtalk/xsim_webtalk.tcl -notrace

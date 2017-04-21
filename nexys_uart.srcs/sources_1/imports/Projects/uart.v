@@ -1,0 +1,306 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 13.01.2017 13:50:39
+// Design Name: 
+// Module Name: uart
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module uart(
+            clk,
+            rxw,
+            rxb,
+            rxr,
+            rxa,
+            rxm,
+            txw,
+            txb,
+            txr,
+            txa
+	    );
+   
+   parameter BAUD = 115200;
+   parameter CLK_FREQ = 100000000;
+   localparam CLKS_PER_BAUD = CLK_FREQ / BAUD;
+   
+   //Clock
+   input wire clk;
+   
+   //Receive wire
+   input wire rxw;
+   //Received byte
+   output wire [7:0] rxb;
+   //Byte ready
+   output wire 	     rxr;
+   //Byte acknowledge
+   input wire 	     rxa;
+   //Byte missed
+   output wire 	     rxm;
+   
+   //Transmit wire
+   output wire 	     txw;
+   //Transmission byte
+   input wire [7:0]  txb;
+   //Byte ready
+   input wire 	     txr;
+   //Byte acknowledge
+   output wire 	     txa;
+   
+   integer 	     rx_t = 0, tx_t = 0;
+   wire 	     rx_exp, tx_exp;
+   
+   assign rx_exp = (rx_t == 0);
+   assign tx_exp = (tx_t == 0);
+   
+   reg 		     rx_idle = 1, tx_idle = 1;
+   integer 	     rx_i = 0, tx_i = 0;
+   reg [7:0] 	     rx_reg = 0, rx_reg_2 = 0, tx_reg;
+   assign rxb = rx_reg_2;
+   reg 		     tx_bit = 1;
+   assign txw = tx_bit;
+   reg 		     rxrdy = 0;
+   assign rxr = rxrdy;
+   reg 		     rxmiss = 0;
+   assign rxm = rxmiss;
+   reg 		     txack = 0;
+   assign txa = txack;
+   reg 		     rx_maybe = 0;
+   reg 		     rxw_sync = 1;
+   /*
+   always @ (posedge clk) begin: rx_state
+      if(rx_t != 0) begin: rx_cd
+         rx_t <= rx_t - 1;
+      end
+      if(rxa == 1) begin: acknowledged
+         rxrdy <= 0;
+      end
+      if(rx_idle == 1 && rx_exp) begin: st_idle
+         
+         if(rxw == 0) begin: st_bit
+            //For more certainty, shift sampling to the center of the bit (0.5),
+            //plus skip a bit (1.0) (= 1.5)
+            rx_t <= (CLKS_PER_BAUD / 2) - 1;
+            rx_idle <= 0;
+            rx_maybe <= 1;
+            rx_i <= 0;
+            if(rxrdy == 1) begin: missed_data
+               rxmiss <= 1;
+            end
+         end
+      end
+      else if(rx_exp == 1 && rx_maybe) begin: check
+         if(!rxw) begin
+            rx_maybe <= 0;
+            rx_t <= CLKS_PER_BAUD-1;
+         end
+         else begin
+            rx_idle <= 1;
+         end
+      end
+      else if(rx_exp == 1 && rx_i < 8) begin: st_get
+         rx_reg[rx_i] <= rxw;
+         rx_i <= rx_i + 1;
+         rx_t <= CLKS_PER_BAUD-1;
+      end
+      else if(rx_i == 8 && rx_exp == 1) begin: st_stop
+	 rx_t <= (CLKS_PER_BAUD/2)-1;
+	 
+         if(rxw != 1) begin: err_idle
+            rx_idle <= 1;
+         end
+         else if(rxa == 1) begin: missed_proc
+            rxmiss <= 1;
+         end
+         else begin: rdy
+            rxrdy <= 1;
+            rx_idle <= 1;
+            rx_reg_2 <= rx_reg;
+         end
+      end
+      
+   end
+   */
+
+   reg [40:0] 	     rx_ctr = 0;
+   localparam[40:0] ctr_inc = 1000000000 / CLK_FREQ;
+   localparam[40:0] rstart_bit = (1000000000) / (2 * BAUD);
+   localparam[40:0] rbit_0 = (1000000000 * 3) / (2 * BAUD);
+   localparam[40:0] rbit_1 = (1000000000 * 5) / (2 * BAUD);
+   localparam[40:0] rbit_2 = (1000000000 * 7) / (2 * BAUD);
+   localparam[40:0] rbit_3 = (1000000000 * 9) / (2 * BAUD);
+   localparam[40:0] rbit_4 = (1000000000 * 11) / (2 * BAUD);
+   localparam[40:0] rbit_5 = (1000000000 * 13) / (2 * BAUD);
+   localparam[40:0] rbit_6 = (1000000000 * 15) / (2 * BAUD);
+   localparam[40:0] rbit_7 = (1000000000 * 17) / (2 * BAUD);
+   localparam[40:0] rstop_bit = (1000000000 * 19) / (2 * BAUD);
+   localparam[40:0] tstart_bit = (1000000000 * 0) / (2 * BAUD);
+   localparam[40:0] tbit_0 = (1000000000 * 2) / (2 * BAUD);
+   localparam[40:0] tbit_1 = (1000000000 * 4) / (2 * BAUD);
+   localparam[40:0] tbit_2 = (1000000000 * 6) / (2 * BAUD);
+   localparam[40:0] tbit_3 = (1000000000 * 8) / (2 * BAUD);
+   localparam[40:0] tbit_4 = (1000000000 * 10) / (2 * BAUD);
+   localparam[40:0] tbit_5 = (1000000000 * 12) / (2 * BAUD);
+   localparam[40:0] tbit_6 = (1000000000 * 14) / (2 * BAUD);
+   localparam[40:0] tbit_7 = (1000000000 * 16) / (2 * BAUD);
+   localparam[40:0] tstop_bit = (1000000000 * 18) / (2 * BAUD);
+   integer 	     bits_gotten = 0;
+   //reg 		     rx_idle = 1;
+   
+   
+   always @ (posedge clk) begin: rx_state
+      if(rxrdy == 1 && rxa == 1) begin: deassert
+	 rxrdy <= 0;
+      end
+      if(rx_idle == 1) begin: check_start
+	 if(rxw == 0) begin: start_found
+	    rx_idle <= 0;
+	    bits_gotten <= 0;
+	    rx_ctr <= 0;
+	    rxw_sync <= 0;
+	 end
+      end
+      else begin: ingest
+	 if(rxw_sync != rxw) begin: rx_sync
+	    rxw_sync <= rxw;
+	    if (bits_gotten == 0) begin: st_bit_edge
+	       //???
+	    end
+	    else if (bits_gotten == 1) begin: bit0_edge
+	       rx_ctr <= tbit_0;
+	    end
+	    else if (bits_gotten == 2) begin: bit1_edge
+	       rx_ctr <= tbit_1;
+	    end
+	    else if (bits_gotten == 3) begin: bit2_edge
+	       rx_ctr <= tbit_2;
+	    end
+	    else if (bits_gotten == 4) begin: bit3_edge
+	       rx_ctr <= tbit_3;
+	    end
+	    else if (bits_gotten == 5) begin: bit4_edge
+	       rx_ctr <= tbit_4;
+	    end
+	    else if (bits_gotten == 6) begin: bit5_edge
+	       rx_ctr <= tbit_5;
+	    end
+	    else if (bits_gotten == 7) begin: bit6_edge
+	       rx_ctr <= tbit_6;
+	    end
+	    else if (bits_gotten == 8) begin: bit7_edge
+	       rx_ctr <= tbit_7;
+	    end 
+	    else if (bits_gotten == 9) begin: sp_bit_edge
+	       rx_ctr <= tstop_bit;
+	    end
+	 end
+	 //else begin: rx_inc
+	    rx_ctr <= rx_ctr + ctr_inc;
+	 //end
+	 
+	 if(rx_ctr > rstart_bit && bits_gotten == 0) begin:verify
+	    if(rxw == 0) begin: success
+	       bits_gotten <= 1;
+	       if(rxrdy == 1) begin: rx_missed
+		  rxmiss <= 1;
+		  rxrdy <= 0;
+	       end
+	    end
+	    else begin: failure
+	       rx_idle <= 1;
+	    end
+	 end
+	 if(rx_ctr > rbit_0 && bits_gotten == 1) begin: bit_0
+	    rx_reg[0] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_1 && bits_gotten == 2) begin: bit_1
+	    rx_reg[1] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_2 && bits_gotten == 3) begin: bit_2
+	    rx_reg[2] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_3 && bits_gotten == 4) begin: bit_3
+	    rx_reg[3] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_4 && bits_gotten == 5) begin: bit_4
+	    rx_reg[4] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_5 && bits_gotten == 6) begin: bit_5
+	    rx_reg[5] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_6 && bits_gotten == 7) begin: bit_6
+	    rx_reg[6] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rbit_7 && bits_gotten == 8) begin: bit_7
+	    rx_reg[7] <= rxw;
+	    bits_gotten <= bits_gotten + 1;
+	 end
+	 if(rx_ctr > rstop_bit && bits_gotten == 9) begin: check_end
+	    if(rxw == 1) begin: successful_reception
+	       if(rxa != 0) begin: rx_missed
+		  rxmiss <= 1;
+	       end
+	       else begin: rx_ready
+		  rx_reg_2 <= rx_reg;
+		  rx_idle <= 1;
+		  rxrdy <= 1;
+		  rxmiss <= 0;
+	       end
+	    end // block: successful_reception
+	    else begin: line_drop
+	       rx_idle <= 1;
+	    end
+	 end
+      end
+   end // block: rx_state
+   
+   always @ (posedge clk) begin: tx_state
+      if(tx_t != 0) begin: tx_cd
+         tx_t <= tx_t - 1;
+      end
+      if(tx_idle == 1) begin: st_idle
+         if(txr == 0) begin: ack_done
+            txack <= 0;
+         end
+         else if (txr == 1 && tx_exp == 1 && txack == 0) begin: acknowledge
+            tx_reg <= txb;
+            txack <= 1;
+            tx_idle <= 0;
+            tx_bit <= 0;
+            tx_t <= CLKS_PER_BAUD-1;
+            tx_i <= 0;
+         end
+      end
+      else if(tx_exp == 1 && tx_i < 8) begin: st_snd
+         tx_bit <= tx_reg[tx_i];
+         tx_i <= tx_i + 1;
+         tx_t <= CLKS_PER_BAUD-1;
+      end
+      else if(tx_i == 8 && tx_exp == 1) begin: st_stop
+         tx_bit <= 1;
+         tx_t <= CLKS_PER_BAUD-1;
+         tx_idle <= 1;
+      end
+   end
+   
+endmodule

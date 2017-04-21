@@ -1,0 +1,2378 @@
+Vivado Simulator 2016.3
+Time resolution is 1 ps
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: aa vs 00
+Error on byte           1: aa vs 01
+Error on byte           2: aa vs 80
+Success for byte           3 (= aa)
+Error on byte           4: aa vs 55
+Error on byte           5: aa vs ff
+Error on byte           6: aa vs 10
+Error on byte           7: aa vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: 55 vs 00
+Error on byte           1: 55 vs 01
+Error on byte           2: 55 vs 80
+Error on byte           3: 55 vs aa
+Success for byte           4 (= 55)
+Error on byte           5: 55 vs ff
+Error on byte           6: 55 vs 10
+Error on byte           7: 55 vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: ff vs 00
+Error on byte           1: ff vs 01
+Error on byte           2: ff vs 80
+Error on byte           3: ff vs aa
+Error on byte           4: ff vs 55
+Success for byte           5 (= ff)
+Error on byte           6: ff vs 10
+Error on byte           7: ff vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 10 vs 00
+Error on byte           1: 10 vs 01
+Error on byte           2: 10 vs 80
+Error on byte           3: 10 vs aa
+Error on byte           4: 10 vs 55
+Error on byte           5: 10 vs ff
+Success for byte           6 (= 10)
+Error on byte           7: 10 vs 08
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Error on byte           0: 08 vs 00
+Error on byte           1: 08 vs 01
+Error on byte           2: 08 vs 80
+Error on byte           3: 08 vs aa
+Error on byte           4: 08 vs 55
+Error on byte           5: 08 vs ff
+Error on byte           6: 08 vs 10
+Success for byte           7 (= 08)
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Success for byte           0 (= 00)
+Error on byte           1: 00 vs 01
+Error on byte           2: 00 vs 80
+Error on byte           3: 00 vs aa
+Error on byte           4: 00 vs 55
+Error on byte           5: 00 vs ff
+Error on byte           6: 00 vs 10
+Error on byte           7: 00 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 01 vs 00
+Success for byte           1 (= 01)
+Error on byte           2: 01 vs 80
+Error on byte           3: 01 vs aa
+Error on byte           4: 01 vs 55
+Error on byte           5: 01 vs ff
+Error on byte           6: 01 vs 10
+Error on byte           7: 01 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08
+Error on byte           0: 80 vs 00
+Error on byte           1: 80 vs 01
+Success for byte           2 (= 80)
+Error on byte           3: 80 vs aa
+Error on byte           4: 80 vs 55
+Error on byte           5: 80 vs ff
+Error on byte           6: 80 vs 10
+Error on byte           7: 80 vs 08

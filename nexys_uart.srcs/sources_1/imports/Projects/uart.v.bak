@@ -1,0 +1,162 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 13.01.2017 13:50:39
+// Design Name: 
+// Module Name: uart
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module uart(
+            clk,
+            rxw,
+            rxb,
+            rxr,
+            rxa,
+            rxm,
+            txw,
+            txb,
+            txr,
+            txa
+	    );
+   
+   parameter BAUD = 115200;
+   parameter CLK_FREQ = 100000000;
+   localparam CLKS_PER_BAUD = CLK_FREQ / BAUD;
+   
+   //Clock
+   input wire clk;
+   
+   //Receive wire
+   input wire rxw;
+   //Received byte
+   output wire [7:0] rxb;
+   //Byte ready
+   output wire 	     rxr;
+   //Byte acknowledge
+   input wire 	     rxa;
+   //Byte missed
+   output wire 	     rxm;
+   
+   //Transmit wire
+   output wire 	     txw;
+   //Transmission byte
+   input wire [7:0]  txb;
+   //Byte ready
+   input wire 	     txr;
+   //Byte acknowledge
+   output wire 	     txa;
+   
+   integer 	     rx_t = 0, tx_t = 0;
+   wire 	     rx_exp, tx_exp;
+   
+   assign rx_exp = (rx_t == 0);
+   assign tx_exp = (tx_t == 0);
+   
+   reg 		     rx_idle = 1, tx_idle = 1;
+   integer 	     rx_i = 0, tx_i = 0;
+   reg [7:0] 	     rx_reg = 0, rx_reg_2 = 0, tx_reg;
+   assign rxb = rx_reg_2;
+   reg 		     tx_bit = 1;
+   assign txw = tx_bit;
+   reg 		     rxrdy = 0;
+   assign rxr = rxrdy;
+   reg 		     rxmiss = 0;
+   assign rxm = rxmiss;
+   reg 		     txack = 0;
+   assign txa = txack;
+   reg 		     rx_maybe = 0;
+   
+   always @ (posedge clk) begin: rx_state
+      if(rx_t != 0) begin: rx_cd
+         rx_t = rx_t - 1;
+      end
+      if(rxa == 1) begin: acknowledged
+         rxrdy = 0;
+      end
+      if(rx_idle == 1) begin: st_idle
+         
+         if(rxw == 0) begin: st_bit
+            //For more certainty, shift sampling to the center of the bit (0.5),
+            //plus skip a bit (1.0) (= 1.5)
+            rx_t = (CLKS_PER_BAUD) / 2;
+            rx_idle = 0;
+            rx_maybe = 1;
+            rx_i = 0;
+            if(rxrdy == 1) begin: missed_data
+               rxmiss = 1;
+            end
+         end
+      end
+      else if(rx_exp == 1 && rx_maybe) begin: check
+         if(!rxw) begin
+            rx_maybe = 0;
+            rx_t = CLKS_PER_BAUD;
+         end
+         else begin
+            rx_idle = 1;
+         end
+      end
+      else if(rx_exp == 1 && rx_i < 8) begin: st_get
+         rx_reg[rx_i] = rxw;
+         rx_i = rx_i + 1;
+         rx_t = CLKS_PER_BAUD;
+      end
+      else if(rx_i == 8 && rx_exp == 1) begin: st_stop
+         if(rxw != 1) begin: err_idle
+            rx_idle = 1;
+         end
+         else if(rxa == 1) begin: missed_proc
+            rxmiss = 1;
+         end
+         else begin: rdy
+            rxrdy = 1;
+            rx_idle = 1;
+            rx_reg_2 = rx_reg;
+         end
+      end
+   end
+   
+   always @ (posedge clk) begin: tx_state
+      if(tx_t != 0) begin: tx_cd
+         tx_t = tx_t - 1;
+      end
+      if(tx_idle == 1) begin: st_idle
+         if(txr == 0) begin: ack_done
+            txack = 0;
+         end
+         else if (txr == 1 && tx_exp == 1 && txack == 0) begin: acknowledge
+            tx_reg = txb;
+            txack = 1;
+            tx_idle = 0;
+            tx_bit = 0;
+            tx_t = CLKS_PER_BAUD;
+            tx_i = 0;
+         end
+      end
+      else if(tx_exp == 1 && tx_i < 8) begin: st_snd
+         tx_bit = tx_reg[tx_i];
+         tx_i = tx_i + 1;
+         tx_t = CLKS_PER_BAUD;
+      end
+      else if(tx_i == 8 && tx_exp == 1) begin: st_stop
+         tx_bit = 1;
+         tx_t = CLKS_PER_BAUD;
+         tx_idle = 1;
+      end
+   end
+   
+endmodule

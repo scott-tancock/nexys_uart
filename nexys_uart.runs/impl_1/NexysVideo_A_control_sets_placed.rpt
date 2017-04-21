@@ -1,0 +1,78 @@
+Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2016.3 (lin64) Build 1682563 Mon Oct 10 19:07:26 MDT 2016
+| Date         : Tue Mar 14 15:15:54 2017
+| Host         : BLACK-BOX running 64-bit unknown
+| Command      : report_control_sets -verbose -file NexysVideo_A_control_sets_placed.rpt
+| Design       : NexysVideo_A
+| Device       : xc7a200t
+-----------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+3. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    15 |
+| Unused register locations in slices containing registers |    62 |
++----------------------------------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |               8 |            5 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |               0 |            0 |
+| Yes          | No                    | No                     |              26 |           13 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |             104 |           27 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+3. Detailed Control Set Information
+-----------------------------------
+
++-------------------+---------------------+---------------------+------------------+----------------+
+|    Clock Signal   |    Enable Signal    |   Set/Reset Signal  | Slice Load Count | Bel Load Count |
++-------------------+---------------------+---------------------+------------------+----------------+
+|  sysclk_IBUF_BUFG | u/rx_reg[2]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[3]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[4]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[5]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[7]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[6]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[0]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/rx_reg[1]_i_1_n_0 |                     |                1 |              1 |
+|  sysclk_IBUF_BUFG | u/tx_bit_i_1_n_0    |                     |                1 |              2 |
+|  sysclk_IBUF_BUFG |                     |                     |                5 |              8 |
+|  sysclk_IBUF_BUFG | u/rxrdy19_out       |                     |                2 |              8 |
+|  sysclk_IBUF_BUFG | u/txack4_out        |                     |                2 |              8 |
+|  sysclk_IBUF_BUFG | u/tx_t[31]_i_2_n_0  | u/tx_t[31]_i_1_n_0  |                9 |             32 |
+|  sysclk_IBUF_BUFG | u/tx_i              | u/txack4_out        |                8 |             32 |
+|  sysclk_IBUF_BUFG | u/p_12_in           | u/rx_ctr[1]_i_1_n_0 |               10 |             40 |
++-------------------+---------------------+---------------------+------------------+----------------+
+
+
++--------+-----------------------+
+| Fanout | Number of ControlSets |
++--------+-----------------------+
+| 1      |                     8 |
+| 2      |                     1 |
+| 8      |                     3 |
+| 16+    |                     3 |
++--------+-----------------------+
+
+
